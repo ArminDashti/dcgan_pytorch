@@ -1,3 +1,5 @@
+# https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+
 from __future__ import print_function
 #%matplotlib inline
 import argparse
